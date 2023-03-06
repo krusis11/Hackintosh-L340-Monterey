@@ -16,7 +16,7 @@ IdeaPad L340-15IRH Gaming specification:
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | 
 | Trackpad | ELAN 0626 |
 | Audio | Realtek ALC 257 |
-| OSX version| Catalina 10.15.4 |
+| OSX version| Monterey 12.6.3 |
 
 ## Not working?
 
