@@ -12,7 +12,7 @@ IdeaPad L340-15IRH Gaming specification:
 | Display | 15.6in FullHD | |
 | RAM | 16GB DDR4 |
 | Wifi| Using intel wifi AC3165 |
-| NVME SSD | 256GB |
+| NVME SSD |KINGSTON Fury Renegade 4TB|
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | 
 | Trackpad | ELAN 0626 |
 | Audio | Realtek ALC 257 |
